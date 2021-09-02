@@ -1,5 +1,5 @@
 // Listen for a submit
-document.querySelector("#email-form").addEventListener("submit", submitForm);
+document.querySelector("#email-form").addEventListener("#submit", submitForm);
 
 function submitForm(e) {
   e.preventDefault();
