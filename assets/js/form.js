@@ -45,7 +45,7 @@ function sendEmail(
     Password : "ezwzakrcquzwobhr",
     // SecureToken : "3def6893-8292-4b1b-9594-1b5226b8d044",
     To: "virtualuserx@gmail.com",
-    From: `${email}`,
+    From: "controlza2021@gmail.com",
     Subject: `${subject}`,
     Body: `Name: ${name} <br/>
            Email: ${email} <br/> 
